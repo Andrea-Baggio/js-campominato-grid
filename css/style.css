@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+
+button {
+    height: 1.3rem;
+    padding: 0 1.6rem;
+}
+
+
+
+.content {
+    background-color: rgb(0, 255, 162);
+}
